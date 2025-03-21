@@ -9,6 +9,8 @@ public class Ejer2Scanner {
         int radio = input.nextInt();
         double area = pi * radio * radio;
         System.out.println("El area del circulo es:" + area);
+
+        input.close();
         
 
     }

@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ej6class",
+            "request": "launch",
+            "mainClass": "Ej6class",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ej5class",
+            "request": "launch",
+            "mainClass": "Ej5class",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ej4class",
+            "request": "launch",
+            "mainClass": "Ej4class",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ej3class",
+            "request": "launch",
+            "mainClass": "Ej3class",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ej2class",
+            "request": "launch",
+            "mainClass": "Ej2class",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ej1class",
+            "request": "launch",
+            "mainClass": "Ej1class",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ejer1Scanner",
+            "request": "launch",
+            "mainClass": "Ejer1Scanner",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ejer2Scanner",
+            "request": "launch",
+            "mainClass": "Ejer2Scanner",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ejer3Scanner",
+            "request": "launch",
+            "mainClass": "Ejer3Scanner",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ejer4Scanner",
+            "request": "launch",
+            "mainClass": "Ejer4Scanner",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "Ejer5Scanner",
+            "request": "launch",
+            "mainClass": "Ejer5Scanner",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "EntradaScanner",
+            "request": "launch",
+            "mainClass": "EntradaScanner",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        },
+        {
+            "type": "java",
+            "name": "ejQuiz",
+            "request": "launch",
+            "mainClass": "ejQuiz",
+            "projectName": "MiPrimerProyectoJava_e69a2cce"
+        }
+    ]
+}

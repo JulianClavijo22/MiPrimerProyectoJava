@@ -17,5 +17,6 @@ public class ejQuiz {
             }
             System.out.println(); 
         }
+        input.close();
     }
 }
