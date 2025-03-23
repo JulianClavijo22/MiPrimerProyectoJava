@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ej14class",
+            "request": "launch",
+            "mainClass": "Ej14class",
+            "projectName": "MiPrimerProyectoJava_2c05032d"
+        },
+        {
+            "type": "java",
+            "name": "Ej13class",
+            "request": "launch",
+            "mainClass": "Ej13class",
+            "projectName": "MiPrimerProyectoJava_2c05032d"
+        },
+        {
+            "type": "java",
+            "name": "Ej12class",
+            "request": "launch",
+            "mainClass": "Ej12class",
+            "projectName": "MiPrimerProyectoJava_2c05032d"
+        },
+        {
+            "type": "java",
+            "name": "Ej11class",
+            "request": "launch",
+            "mainClass": "Ej11class",
+            "projectName": "MiPrimerProyectoJava_2c05032d"
+        },
+        {
+            "type": "java",
+            "name": "Ej10class",
+            "request": "launch",
+            "mainClass": "Ej10class",
+            "projectName": "MiPrimerProyectoJava_2c05032d"
+        },
+        {
+            "type": "java",
+            "name": "Ej2class",
+            "request": "launch",
+            "mainClass": "Ej2class",
+            "projectName": "MiPrimerProyectoJava_2c05032d"
+        },
+        {
+            "type": "java",
+            "name": "Ej8class",
+            "request": "launch",
+            "mainClass": "Ej8class",
+            "projectName": "MiPrimerProyectoJava_2c05032d"
+        },
+        {
+            "type": "java",
+            "name": "Ej7class",
+            "request": "launch",
+            "mainClass": "Ej7class",
+            "projectName": "MiPrimerProyectoJava_2c05032d"
+        },
+        {
+            "type": "java",
+            "name": "Ej1class",
+            "request": "launch",
+            "mainClass": "Ej1class",
+            "projectName": "MiPrimerProyectoJava_2c05032d"
+        },
+        {
+            "type": "java",
             "name": "Ej6class",
             "request": "launch",
             "mainClass": "Ej6class",
